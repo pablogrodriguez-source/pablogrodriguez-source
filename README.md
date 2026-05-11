@@ -3,21 +3,23 @@
 Motion · video · code · product.
 
 **16 years** moving pixels for Deloitte, Nightingale, Aptly, IB5k.
-**Last 7 months: 9 products, 4 in production.**
+**October 2025: first line of code.**
+First ~4 months: Force · TryP — learning the tools.
+After that: 9 products, 4 in production, in weeks and one-to-two-month bursts.
 Same hands, new tools.
 
 ---
 
 ## Live production
 
-| Product | What it does | URL |
-|---|---|---|
-| **Spiritual** | iOS astrology app + web · 1129 swift tests + 258 XCTest · closed beta | [frontend](https://spiritual-frontend.vercel.app) · [backend](https://spiritualweb-production.up.railway.app) |
-| **TryD** | Photo / text → 3D · 16 endpoints · 38 PBR materials · 3000+ artworks across 8 museums | [tryd.dev](https://tryd.dev) |
-| **TryH** | Clinical 3D platform · 40+ endpoints · 508 curated medical prompts · LMS integration | [tryh-production](https://tryh-production.up.railway.app) |
-| **TryA** | Anatomy explorer · 77 structures · 4 depth layers · trilingual EN/ES/Latin | (institutional standalone) |
+| Product | What it does | URL | Build time |
+|---|---|---|---|
+| **SKYCHECK** | iOS astrology app + aviation-editorial landing · 985 swift tests + 262 XCTest · closed beta · landing live | [skycheck.me](https://skycheck.me) · [iOS frontend](https://spiritual-frontend.vercel.app) · [backend](https://spiritualweb-production.up.railway.app) | ~2 months (S20–S43) |
+| **TryD** | Photo / text → 3D · 16 endpoints · 38 PBR materials · 3000+ artworks across 8 museums | [tryd.dev](https://tryd.dev) | ~1 month |
+| **TryH** | Clinical 3D platform · 40+ endpoints · 508 curated medical prompts · LMS integration | [tryh-production](https://tryh-production.up.railway.app) | ~1 month |
+| **TryA** | Anatomy explorer · 77 structures · 4 depth layers · trilingual EN/ES/Latin | (institutional standalone) | weeks |
 
-## Active development
+## Active development · days to weeks each
 
 - **TryG** · Procedural horror Godot game · infinite hospital generation
 - **TryW** · Real-world 3D builder · 215M+ buildings · paused S13
