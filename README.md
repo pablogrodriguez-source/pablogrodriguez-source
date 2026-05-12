@@ -14,7 +14,7 @@ Same hands, new tools.
 
 | Product | What it does | URL | Build time |
 |---|---|---|---|
-| **SKYCHECK** | iOS astrology app + aviation-editorial landing · 985 swift tests + 262 XCTest · closed beta · landing live | [skycheck.me](https://skycheck.me) · [iOS frontend](https://spiritual-frontend.vercel.app) · [backend](https://spiritualweb-production.up.railway.app) | ~2 months (S20–S43) |
+| **SKYCHECK** | iOS astrology app + aviation-editorial landing · 1323 swift tests · closed beta · landing live | [skycheck.me](https://skycheck.me) | ~2 months (S20–S44) |
 | **TryD** | Photo / text → 3D · 16 endpoints · 38 PBR materials · 3000+ artworks across 8 museums | [tryd.dev](https://tryd.dev) | ~1 month |
 | **TryH** | Clinical 3D platform · 40+ endpoints · 508 curated medical prompts · LMS integration | [tryh-production](https://tryh-production.up.railway.app) | ~1 month |
 | **TryA** | Anatomy explorer · 77 structures · 4 depth layers · trilingual EN/ES/Latin | (institutional standalone) | weeks |
