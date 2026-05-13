@@ -3,7 +3,7 @@
 Postproduction · motion · UIUX · product.
 Designer & motion grapher who teamed up with **Claude** to ship the things he couldn't ship alone — namely, code.
 
-**16 years** moving pixels at cuatrocabezas, IB5K, Soapboxx, Aptly, Nightingale, Coderhouse, Deloitte Dutch Caribbean.
+**10 years** moving pixels at cuatrocabezas, IB5K, Soapboxx, Aptly, Nightingale, Coderhouse, Deloitte Dutch Caribbean.
 
 **October 2025**: first line of code.
 A curious AI apprentice shipping products that scratch his own questions first, then looking over the fence for problems these new tools can solve.
