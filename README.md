@@ -1,5 +1,4 @@
-# Pablo Rodríguez
-
+# Pablo Rodríguez · Designer-builder · AI-native
 Postproduction · UIUX · Product.
 
 Designer with 10 years of experience at cuatrocabezas, IB5K, Soapboxx, Aptly, Nightingale, Coderhouse, and Deloitte Dutch Caribbean.
