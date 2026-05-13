@@ -1,56 +1,46 @@
 # Pablo Rodríguez · makes things.
 
-Motion · video · code · product.
+Postproduction · motion · UIUX · product.
+Designer & motion grapher who teamed up with **Claude** to ship the things he couldn't ship alone — namely, code.
 
-**16 years** moving pixels for Deloitte, Nightingale, Aptly, IB5k.
-**October 2025: first line of code.**
-First ~4 months: Force · TryP — learning the tools.
-After that: 9 products, 4 in production, in weeks and one-to-two-month bursts.
-Same hands, new tools.
+**16 years** moving pixels at cuatrocabezas, IB5K, Soapboxx, Aptly, Nightingale, Coderhouse, Deloitte Dutch Caribbean.
+
+**October 2025**: first line of code.
+A curious AI apprentice shipping products that scratch his own questions first, then looking over the fence for problems these new tools can solve.
 
 ---
 
-## Live production
+## What's online
 
-| Product | What it does | URL | Build time |
-|---|---|---|---|
-| **SKYCHECK** | iOS astrology app + aviation-editorial landing · 1323 swift tests · closed beta · landing live | [skycheck.me](https://skycheck.me) | ~2 months (S20–S44) |
-| **TryD** | Photo / text → 3D · 16 endpoints · 38 PBR materials · 3000+ artworks across 8 museums | [tryd.dev](https://tryd.dev) | ~1 month |
-| **TryH** | Clinical 3D platform · 40+ endpoints · 508 curated medical prompts · LMS integration | [tryh-production](https://tryh-production.up.railway.app) | ~1 month |
-| **TryA** | Anatomy explorer · 77 structures · 4 depth layers · trilingual EN/ES/Latin | (institutional standalone) | weeks |
+- **[skycheck.me](https://skycheck.me)** — aviation-editorial astrology · iOS + web
+- **[try-anatomy.vercel.app](https://try-anatomy.vercel.app)** — interactive 3D anatomy explorer · in progress
+- **[Portfolio](https://pablo-portfolio-ten.vercel.app)** — full case studies + work-in-progress
 
-## Active development · days to weeks each
+## What's in the workshop
 
-- **TryG** · Procedural horror Godot game · infinite hospital generation
-- **TryW** · Real-world 3D builder · 215M+ buildings · paused S13
-- **TryL** · Literary / cinematic studio · FLUX + Kling · EP01 produced
-- **TryD2** · New launch stream · Vignelli editorial · init S18
-- **NERVIO** · Network health desktop · Tauri + Rust · Phase 0 Linux porting
+A handful of products in different states — production, prototype, paused, init.
+Photo / text → 3D pipelines. Clinical 3D for education. Procedural games. Real-world city builders. Audio-reactive engines. Cross-platform desktop tools. Literary / cinematic studio.
 
-## Stack
-
-`TypeScript` · `JavaScript` · `Swift / SwiftUI` · `Python` · `GDScript`
-`React 19` · `Next.js 16` · `Vapor` · `Three.js` · `R3F` · `Godot 4.6`
-`Mapbox GL JS` · `CesiumJS` · `SwiftAA` · `GLTF / Draco`
-`Postgres` · `Redis` · `Docker` · `Vercel` · `Railway`
-`Replicate` · `FLUX` · `Kling` · `Gemini`
-
-AI partner: `Claude (Anthropic)`. Senior review on all AI-generated output: architecture, correctness, product decisions.
+Full detail in the portfolio.
 
 ## Background
 
-16 years motion design / video editor:
-Nightingale College · Aptly · Coderhouse · Templet · Deloitte Dutch Caribbean · IB5k · Soapboxx · Eyeworks
+Designer · motion graphics · postproduction · video editing for e-learning · UIUX.
+Music, photography, psychology — skills, not careers.
+Lic. Psicología, Universidad Kennedy (2006–2010).
 
-Education: Universidad Kennedy (Lic. Psicología 2006-2010) · Coursera (UX, Graphic Design 2022)
+## How this works
 
-First line of code: October 2025.
+- **Pablo** brings the product, the architecture intent, the eye.
+- **Claude** (Anthropic) writes the code.
+- A curious apprentice + a capable partner. That's the whole stack.
 
 ## Links
 
-- Portfolio: [pablo-portfolio-ten.vercel.app](https://pablo-portfolio-ten.vercel.app)
-- LinkedIn: [pablogonzalorodriguez](https://linkedin.com/in/pablogonzalorodriguez)
+- Portfolio · [pablo-portfolio-ten.vercel.app](https://pablo-portfolio-ten.vercel.app)
+- LinkedIn · [pablogonzalorodriguez](https://linkedin.com/in/pablogonzalorodriguez)
+- Email · pablogrodriguez@gmail.com
 
 ---
 
-*Curated. The work behind the work lives elsewhere.*
+*Same hands. New partner.*
