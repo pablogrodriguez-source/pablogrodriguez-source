@@ -7,18 +7,6 @@ In October 2025 wrote his first line of code. Since then, software shipped under
 
 ---
 
-## Live work
-
-- **[skycheck.me](https://skycheck.me)** — aviation-editorial astrology platform · iOS and web
-- **[try-anatomy.vercel.app](https://try-anatomy.vercel.app)** — interactive 3D anatomy explorer (in progress)
-- **[pablogrodriguez.com](https://pablogrodriguez.com)** — full case studies
-
-## In development
-
-A range of products in production, prototype, and exploratory states: audio-reactive visualization software, photo and text to 3D pipelines, clinical 3D for education, a desktop network security monitor, procedural games, real-world city builders, and a cinematic production studio.
-
-Detail available in the portfolio.
-
 ## Stack
 
 `TypeScript` · `Swift / SwiftUI` · `Rust` · `Python` · `GDScript`
@@ -37,8 +25,12 @@ Education: Lic. Psicología, Universidad Kennedy (2006–2010).
 
 Pablo defines the product, the architecture, and the design. Claude (Anthropic) writes the implementation.
 
+## Work
+
+The products are private. Walkthroughs on request.
+
 ## Contact
 
-- Portfolio · [pablogrodriguez.com](https://pablogrodriguez.com)
-- LinkedIn · [pablogonzalorodriguez](https://linkedin.com/in/pablogonzalorodriguez)
-- Email · pablogrodriguez@gmail.com
+- [pablogrodriguez.com](https://pablogrodriguez.com)
+- [LinkedIn](https://linkedin.com/in/pablogonzalorodriguez)
+- pablogrodriguez@gmail.com
