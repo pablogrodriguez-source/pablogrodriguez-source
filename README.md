@@ -11,7 +11,7 @@ In October 2025 wrote his first line of code. Since then, software shipped under
 
 - **[skycheck.me](https://skycheck.me)** — aviation-editorial astrology platform · iOS and web
 - **[try-anatomy.vercel.app](https://try-anatomy.vercel.app)** — interactive 3D anatomy explorer (in progress)
-- **[Portfolio](https://pablo-portfolio-ten.vercel.app)** — full case studies
+- **[pablogrodriguez.com](https://pablogrodriguez.com)** — full case studies
 
 ## In development
 
@@ -39,6 +39,6 @@ Pablo defines the product, the architecture, and the design. Claude (Anthropic) 
 
 ## Contact
 
-- Portfolio · [pablo-portfolio-ten.vercel.app](https://pablo-portfolio-ten.vercel.app)
+- Portfolio · [pablogrodriguez.com](https://pablogrodriguez.com)
 - LinkedIn · [pablogonzalorodriguez](https://linkedin.com/in/pablogonzalorodriguez)
 - Email · pablogrodriguez@gmail.com
