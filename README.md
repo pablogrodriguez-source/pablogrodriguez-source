@@ -19,7 +19,7 @@ Cross-cutting: token-based design systems · accessibility passes · bundle and 
 
 Designer with experience in postproduction, motion graphics, video editing for e-learning, and UIUX. Music, photography, and psychology as secondary skills.
 
-Education: Lic. Psicología, Universidad Kennedy (2006–2010).
+Education: Lic. Psicología (2006–2010).
 
 ## Method
 
